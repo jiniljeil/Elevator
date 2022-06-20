@@ -3,7 +3,7 @@ UART 통신을 사용하여 Controller가 Door와 Elevator에게 신호를 주�
 
 ## Elevator IMAGE
 
-<img src="img/elevator_img1.jpeg"/> 
+<img src="img/elevator_img1.jpeg" width="1000px"/> 
 
 ## 사용된 부품
 
