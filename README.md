@@ -40,4 +40,8 @@ UART 통신을 사용하여 Controller가 Door와 Elevator에게 신호를 주�
 4. HX711센서를 사용하여 Elevator의 부하된 무게를 측정할 수 있다.
 5. 스위치를 사용하여 비상벨과 문 열기 버튼을 구현하여, Door 와 Elevator의 동작을 제어할 수 있다.
 
+## 시나리오 영상
+
+https://youtu.be/LzH9U8aw81g
+
 
